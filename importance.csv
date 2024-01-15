@@ -1,0 +1,304 @@
+,features,feature_importance
+216,employee_residence_United States,0.26022406594578495
+128,job_category_Data Analysis,0.11763710390808614
+222,experience_level_Senior,0.0825182955321893
+221,experience_level_Mid-level,0.05482226247190542
+135,job_category_Machine Learning and AI,0.05183116038761291
+219,experience_level_Entry-level,0.045828769382628295
+206,employee_residence_Spain,0.03556399295228779
+133,job_category_Data Science and Research,0.026072964407484044
+0,work_year,0.023734183240470566
+229,work_setting_Remote,0.02284541535918618
+215,employee_residence_United Kingdom,0.021734169263637592
+220,experience_level_Executive,0.019473243801504656
+70,job_title_Data Scientist,0.017806501485815404
+300,company_size_L,0.016182718580782674
+148,employee_residence_Canada,0.013971694220831301
+120,job_title_Research Scientist,0.013660257014291861
+63,job_title_Data Science Consultant,0.011452681010684225
+72,job_title_Data Specialist,0.010553249160456782
+132,job_category_Data Quality and Operations,0.010298554664447183
+26,job_title_Business Intelligence Engineer,0.01012742348317079
+52,job_title_Data Manager,0.00951572967455895
+228,work_setting_In-person,0.008132915909723438
+45,job_title_Data Engineer,0.006752121051299365
+118,job_title_Research Analyst,0.006102647269603271
+301,company_size_M,0.005891239538690089
+119,job_title_Research Engineer,0.005322389088557915
+130,job_category_Data Engineering,0.004525481427963108
+33,job_title_Computer Vision Engineer,0.004520244887916644
+253,company_location_Germany,0.003264288967175219
+134,job_category_Leadership and Management,0.0031859507163654603
+241,company_location_Canada,0.002939843184937197
+141,employee_residence_Australia,0.0029196705203212627
+165,employee_residence_Germany,0.002852650754737907
+6,job_title_AI Scientist,0.0026394873885034666
+196,employee_residence_Puerto Rico,0.002620068471938551
+13,job_title_Applied Scientist,0.0025920720800262686
+227,work_setting_Hybrid,0.0025590579818736327
+81,job_title_Director of Data Science,0.0024577688952217495
+275,company_location_Netherlands,0.0024352884814447407
+34,job_title_Computer Vision Software Engineer,0.0021842824886635884
+94,job_title_ML Engineer,0.001977957058832764
+129,job_category_Data Architecture and Modeling,0.001906431047805798
+22,job_title_Business Data Analyst,0.0018912708767304233
+39,job_title_Data Analytics Lead,0.001837214590758649
+235,company_location_Australia,0.001830008319018867
+299,company_location_United States,0.0017812435624558645
+114,job_title_Principal Data Engineer,0.0017542747954540938
+174,employee_residence_Ireland,0.0017190414063066118
+1,job_title_AI Architect,0.0016615419776506847
+25,job_title_Business Intelligence Developer,0.0015090966087400349
+208,employee_residence_Switzerland,0.001504055582580175
+93,job_title_Lead Machine Learning Engineer,0.0014969642868315947
+243,company_location_China,0.0014897991315604524
+105,job_title_Machine Learning Software Engineer,0.0014781609906645097
+158,employee_residence_Dominican Republic,0.0014757444227721497
+199,employee_residence_Russia,0.0014649806998506749
+210,employee_residence_Tunisia,0.001461887667628739
+86,job_title_Head of Data,0.001447613815837147
+190,employee_residence_Nigeria,0.001447613815837147
+197,employee_residence_Qatar,0.0014444392241357493
+79,job_title_Deep Learning Engineer,0.0013616251046562164
+12,job_title_Applied Machine Learning Scientist,0.00133612998508891
+24,job_title_Business Intelligence Data Analyst,0.001278826910839329
+96,job_title_Machine Learning Developer,0.0012392363660033343
+109,job_title_Marketing Data Analyst,0.001145752183006573
+103,job_title_Machine Learning Researcher,0.0011265704292603613
+302,company_size_S,0.0010966749811747675
+104,job_title_Machine Learning Scientist,0.001091401102464054
+98,job_title_Machine Learning Infrastructure Engineer,0.0010906990059800583
+10,job_title_Applied Data Scientist,0.0008702557537535506
+95,job_title_MLOps Engineer,0.0008692779041178933
+30,job_title_Cloud Data Engineer,0.0008592398581364341
+36,job_title_Data Analyst,0.0008313086751912363
+2,job_title_AI Developer,0.0007296440604017881
+8,job_title_Analytics Engineer,0.0006602910239534995
+90,job_title_Lead Data Analyst,0.0006130104436674479
+58,job_title_Data Operations Specialist,0.0005848944710453118
+85,job_title_Financial Data Analyst,0.00047898986553434843
+55,job_title_Data Operations Analyst,0.00040492694149290827
+15,job_title_Azure Data Engineer,0.0
+16,job_title_BI Analyst,0.0
+223,employment_type_Contract,0.0
+224,employment_type_Freelance,0.0
+225,employment_type_Full-time,0.0
+17,job_title_BI Data Analyst,0.0
+18,job_title_BI Data Engineer,0.0
+226,employment_type_Part-time,0.0
+67,job_title_Data Science Manager,0.0
+14,job_title_Autonomous Vehicle Technician,0.0
+11,job_title_Applied Machine Learning Engineer,0.0
+230,company_location_Algeria,0.0
+231,company_location_American Samoa,0.0
+232,company_location_Andorra,0.0
+233,company_location_Argentina,0.0
+234,company_location_Armenia,0.0
+236,company_location_Austria,0.0
+237,company_location_Bahamas,0.0
+238,company_location_Belgium,0.0
+239,company_location_Bosnia and Herzegovina,0.0
+240,company_location_Brazil,0.0
+9,job_title_Analytics Engineering Manager,0.0
+242,company_location_Central African Republic,0.0
+19,job_title_BI Developer,0.0
+214,employee_residence_United Arab Emirates,0.0
+218,employee_residence_Vietnam,0.0
+217,employee_residence_Uzbekistan,0.0
+191,employee_residence_Pakistan,0.0
+192,employee_residence_Peru,0.0
+193,employee_residence_Philippines,0.0
+194,employee_residence_Poland,0.0
+195,employee_residence_Portugal,0.0
+31,job_title_Cloud Database Engineer,0.0
+198,employee_residence_Romania,0.0
+29,job_title_Cloud Data Architect,0.0
+200,employee_residence_Saudi Arabia,0.0
+201,employee_residence_Serbia,0.0
+202,employee_residence_Singapore,0.0
+203,employee_residence_Slovenia,0.0
+204,employee_residence_South Africa,0.0
+205,employee_residence_South Korea,0.0
+28,job_title_Business Intelligence Specialist,0.0
+207,employee_residence_Sweden,0.0
+27,job_title_Business Intelligence Manager,0.0
+209,employee_residence_Thailand,0.0
+23,job_title_Business Intelligence Analyst,0.0
+211,employee_residence_Turkey,0.0
+212,employee_residence_Uganda,0.0
+213,employee_residence_Ukraine,0.0
+245,company_location_Croatia,0.0
+21,job_title_Big Data Engineer,0.0
+20,job_title_Big Data Architect,0.0
+244,company_location_Colombia,0.0
+249,company_location_Egypt,0.0
+246,company_location_Czech Republic,0.0
+247,company_location_Denmark,0.0
+276,company_location_New Zealand,0.0
+277,company_location_Nigeria,0.0
+278,company_location_Pakistan,0.0
+279,company_location_Philippines,0.0
+280,company_location_Poland,0.0
+281,company_location_Portugal,0.0
+282,company_location_Puerto Rico,0.0
+283,company_location_Qatar,0.0
+284,company_location_Romania,0.0
+285,company_location_Russia,0.0
+286,company_location_Saudi Arabia,0.0
+287,company_location_Singapore,0.0
+288,company_location_Slovenia,0.0
+289,company_location_South Africa,0.0
+290,company_location_South Korea,0.0
+291,company_location_Spain,0.0
+292,company_location_Sweden,0.0
+293,company_location_Switzerland,0.0
+294,company_location_Thailand,0.0
+295,company_location_Turkey,0.0
+296,company_location_Ukraine,0.0
+297,company_location_United Arab Emirates,0.0
+298,company_location_United Kingdom,0.0
+4,job_title_AI Programmer,0.0
+3,job_title_AI Engineer,0.0
+5,job_title_AI Research Engineer,0.0
+274,company_location_Moldova,0.0
+273,company_location_Mexico,0.0
+259,company_location_Indonesia,0.0
+248,company_location_Ecuador,0.0
+189,employee_residence_New Zealand,0.0
+250,company_location_Estonia,0.0
+251,company_location_Finland,0.0
+252,company_location_France,0.0
+7,job_title_AWS Data Architect,0.0
+254,company_location_Ghana,0.0
+255,company_location_Gibraltar,0.0
+256,company_location_Greece,0.0
+257,company_location_Honduras,0.0
+258,company_location_India,0.0
+260,company_location_Iran,0.0
+272,company_location_Mauritius,0.0
+261,company_location_Iraq,0.0
+262,company_location_Ireland,0.0
+263,company_location_Israel,0.0
+264,company_location_Italy,0.0
+265,company_location_Japan,0.0
+266,company_location_Kenya,0.0
+267,company_location_Latvia,0.0
+268,company_location_Lithuania,0.0
+269,company_location_Luxembourg,0.0
+270,company_location_Malaysia,0.0
+271,company_location_Malta,0.0
+32,job_title_Compliance Data Analyst,0.0
+185,employee_residence_Mauritius,0.0
+188,employee_residence_Netherlands,0.0
+47,job_title_Data Integration Engineer,0.0
+102,job_title_Machine Learning Research Engineer,0.0
+57,job_title_Data Operations Manager,0.0
+56,job_title_Data Operations Engineer,0.0
+106,job_title_Machine Learning Specialist,0.0
+107,job_title_Manager Data Management,0.0
+108,job_title_Managing Director Data Science,0.0
+110,job_title_Marketing Data Engineer,0.0
+111,job_title_NLP Engineer,0.0
+112,job_title_Power BI Developer,0.0
+113,job_title_Principal Data Analyst,0.0
+54,job_title_Data Modeller,0.0
+115,job_title_Principal Data Scientist,0.0
+116,job_title_Principal Machine Learning Engineer,0.0
+117,job_title_Product Data Analyst,0.0
+53,job_title_Data Modeler,0.0
+51,job_title_Data Management Specialist,0.0
+50,job_title_Data Management Analyst,0.0
+121,job_title_Sales Data Analyst,0.0
+122,job_title_Software Data Engineer,0.0
+123,job_title_Staff Data Analyst,0.0
+124,job_title_Staff Data Scientist,0.0
+125,job_title_Staff Machine Learning Engineer,0.0
+126,job_category_BI and Visualization,0.0
+127,job_category_Cloud and Database,0.0
+49,job_title_Data Lead,0.0
+101,job_title_Machine Learning Operations Engineer,0.0
+100,job_title_Machine Learning Modeler,0.0
+99,job_title_Machine Learning Manager,0.0
+80,job_title_Deep Learning Researcher,0.0
+69,job_title_Data Science Tech Lead,0.0
+66,job_title_Data Science Lead,0.0
+71,job_title_Data Scientist Lead,0.0
+65,job_title_Data Science Engineer,0.0
+73,job_title_Data Strategist,0.0
+74,job_title_Data Strategy Manager,0.0
+75,job_title_Data Visualization Analyst,0.0
+76,job_title_Data Visualization Engineer,0.0
+77,job_title_Data Visualization Specialist,0.0
+78,job_title_Decision Scientist,0.0
+64,job_title_Data Science Director,0.0
+62,job_title_Data Quality Engineer,0.0
+97,job_title_Machine Learning Engineer,0.0
+82,job_title_ETL Developer,0.0
+83,job_title_ETL Engineer,0.0
+84,job_title_Finance Data Analyst,0.0
+61,job_title_Data Quality Analyst,0.0
+87,job_title_Head of Data Science,0.0
+88,job_title_Head of Machine Learning,0.0
+89,job_title_Insight Analyst,0.0
+91,job_title_Lead Data Engineer,0.0
+92,job_title_Lead Data Scientist,0.0
+60,job_title_Data Product Owner,0.0
+59,job_title_Data Product Manager,0.0
+48,job_title_Data Integration Specialist,0.0
+131,job_category_Data Management and Strategy,0.0
+187,employee_residence_Moldova,0.0
+46,job_title_Data Infrastructure Engineer,0.0
+161,employee_residence_Estonia,0.0
+162,employee_residence_Finland,0.0
+163,employee_residence_France,0.0
+164,employee_residence_Georgia,0.0
+166,employee_residence_Ghana,0.0
+167,employee_residence_Greece,0.0
+168,employee_residence_Honduras,0.0
+169,employee_residence_Hong Kong,0.0
+170,employee_residence_India,0.0
+171,employee_residence_Indonesia,0.0
+172,employee_residence_Iran,0.0
+173,employee_residence_Iraq,0.0
+35,job_title_Consultant Data Engineer,0.0
+175,employee_residence_Italy,0.0
+176,employee_residence_Japan,0.0
+177,employee_residence_Jersey,0.0
+178,employee_residence_Kenya,0.0
+179,employee_residence_Kuwait,0.0
+180,employee_residence_Latvia,0.0
+181,employee_residence_Lithuania,0.0
+182,employee_residence_Luxembourg,0.0
+183,employee_residence_Malaysia,0.0
+184,employee_residence_Malta,0.0
+68,job_title_Data Science Practitioner,0.0
+186,employee_residence_Mexico,0.0
+160,employee_residence_Egypt,0.0
+159,employee_residence_Ecuador,0.0
+37,job_title_Data Analytics Consultant,0.0
+144,employee_residence_Bolivia,0.0
+44,job_title_Data Developer,0.0
+43,job_title_Data DevOps Engineer,0.0
+42,job_title_Data Architect,0.0
+136,employee_residence_Algeria,0.0
+137,employee_residence_American Samoa,0.0
+138,employee_residence_Andorra,0.0
+139,employee_residence_Argentina,0.0
+140,employee_residence_Armenia,0.0
+41,job_title_Data Analytics Specialist,0.0
+142,employee_residence_Austria,0.0
+143,employee_residence_Belgium,0.0
+145,employee_residence_Bosnia and Herzegovina,0.0
+157,employee_residence_Denmark,0.0
+146,employee_residence_Brazil,0.0
+147,employee_residence_Bulgaria,0.0
+40,job_title_Data Analytics Manager,0.0
+149,employee_residence_Central African Republic,0.0
+150,employee_residence_Chile,0.0
+38,job_title_Data Analytics Engineer,0.0
+152,employee_residence_Colombia,0.0
+153,employee_residence_Costa Rica,0.0
+154,employee_residence_Croatia,0.0
+155,employee_residence_Cyprus,0.0
+156,employee_residence_Czech Republic,0.0
+151,employee_residence_China,0.0
